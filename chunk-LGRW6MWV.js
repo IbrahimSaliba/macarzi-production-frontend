@@ -1,0 +1,1 @@
+import{X as r,e}from"./chunk-MSHI2ENP.js";var c=(()=>{class t{constructor(){this.base=new e(""),this.page=new e(""),this.last=new e("")}static{this.\u0275fac=function(o){return new(o||t)}}static{this.\u0275prov=r({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{c as a};
